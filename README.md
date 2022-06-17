@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brisamh
-- 👀 I’m interested in ... Risk Management, Improving my Python and Hiking 
+- 👀 I’m interested in ... Risk Management, Improving my Python, and Hiking 
 - 🌱 I’m currently learning ... Data Science at the University of Washington
 - 💞️ I’m looking to collaborate on ... Anything! I'm hungry to learn and seeking a mentor
 - 📫 How to reach me ... www.linkedin.com/in/brisamh
